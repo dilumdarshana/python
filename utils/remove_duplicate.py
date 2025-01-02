@@ -15,5 +15,4 @@ def remove_duplicates(nums):
 
   return nums
 
-
 print (remove_duplicates([1,1,1,2,2,3]))
