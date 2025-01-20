@@ -45,16 +45,26 @@ for i in range(5):
   for j in range(5):
     print(i, j)
 
+# example 08: loop with by convert to tuple
+for item in enumerate('item'):
+  print(item)
+# output:
+# (0, 'i')
+# (1, 't')
+# (2, 'e')
+# (3, 'm')
+# (4, 's')
+
 # example 08: break statement
 for num in nums:
   if num == 3:
-    break
+    break # exit the loop from here
   print(num)
 
 # example 09: continue statement
 for num in nums:
   if num == 3:
-    continue
+    continue # from this point code will pointing to the top, doesn't execute bellow anything
   print(num)
 
 # example 10: while loop

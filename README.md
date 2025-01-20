@@ -6,4 +6,4 @@
 ## Online playground Jupiter nodtebook
 [Link](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
 
-## Lool for the concepts folder for Pareto principle
+## Look for the concepts folder for Pareto principle
