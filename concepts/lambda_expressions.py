@@ -15,3 +15,7 @@ print(square(3))
 nums = [1,2,3,4,5]
 square_nums = list(map(lambda num: num ** 2, nums))
 print(square_nums)
+
+# example 03
+cal = lambda num: 'Even' if num%2 == 0 else 'Odd'
+print(cal(2))
