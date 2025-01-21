@@ -13,3 +13,13 @@
 
 ## Exceptions (exceptions)
 [Documentation](https://docs.python.org/3/tutorial/errors.html)
+
+## Linting
+```bash
+# install pylint
+pip install pylint
+
+pylint test.py 
+# OR
+pylint test.py -r y
+```

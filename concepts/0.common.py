@@ -1,3 +1,7 @@
+'''
+Common Python usage
+'''
+
 # empty code block
 x = [1, 2, 3, 4, 5]
 
